@@ -1,0 +1,148 @@
+{
+  "items": [
+    {
+      "sys": {
+        "id": "1"
+      },
+      "fields": {
+        "title": "Analog Watch",
+        "price": 299,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "https://rukminim1.flixcart.com/image/880/1056/k7z3afk0/watch/t/c/x/lcs-8188-lois-caron-original-imafq3k9ztzdkyhe.jpeg?q=50"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "2"
+      },
+      "fields": {
+        "title": "Realme 8Pro",
+        "price": 70000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "https://rukminim1.flixcart.com/image/312/312/kmmcrrk0/mobile/5/w/u/8-pro-rmx3081-realme-original-imagfgpgcxyjufz3.jpeg?q=70"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "3"
+      },
+      "fields": {
+        "title": " LED Smart Android TV",
+        "price": 3499,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "https://rukminim1.flixcart.com/image/416/416/kc54ivk0/television/y/c/u/mi-l50m5-5ain-original-imaftc5fzuhfdvzm.jpeg?q=70"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "4"
+      },
+      "fields": {
+        "title":"Airtel AMF-311WW Data Card  (Black)",
+        "price":2199,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "https://rukminim1.flixcart.com/image/612/612/kklhbbk0/datacard/q/z/b/amf-311ww-airtel-original-imafzwrdercypgmy.jpeg?q=70"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "5"
+      },
+      "fields": {
+        "title": "fridge",
+        "price": 12290,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "https://rukminim1.flixcart.com/image/312/312/k4ss2a80/refrigerator-new/j/w/v/rr21t2h2wcu-hl-5-samsung-original-imafnmkbyzev8szv.jpeg?q=70"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "6"
+      },
+      "fields": {
+        "title": "acer Aspire 7 Ryzen 5 Quad Core 3550H -",
+        "price": 49990,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "https://rukminim1.flixcart.com/image/312/312/kcc9q4w0/computer/h/t/g/acer-na-gaming-laptop-original-imafthr8aa4rsjpn.jpeg?q=70"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "7"
+      },
+      "fields": {
+        "title": "Mivi TEDPM40-BK Bluetooth Headset ",
+        "price": 1499,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "https://rukminim1.flixcart.com/image/612/612/khcb7gw0-0/headphone/7/c/e/tedpm40-bk-mivi-original-imafxdfu5ggazrkm.jpeg?q=70"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "8"
+      },
+      "fields": {
+        "title": "Small Digital Alarm Clock with Nightlight and Battery Backup, LED Display",
+        "price": 3399,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "https://images-na.ssl-images-amazon.com/images/I/61j17FjPhtL._AC_SL1500_.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "9"
+      },
+      "fields": {
+        "title": "Philips SonicareToothbrush",
+        "price": 1800,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "https://images-na.ssl-images-amazon.com/images/I/8110-qC%2BfHL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+            }
+          }
+        }
+      }
+    }
+  ]
+}
